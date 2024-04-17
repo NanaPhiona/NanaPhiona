@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Thank you for visiting my Github Profile.
+### Fun fact I love Web programming and working with Data.
 
 <!--
 **NanaPhiona/NanaPhiona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
